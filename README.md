@@ -1,1 +1,19 @@
 These are app link and contract address
+
+app link:  http://173.212.216.163/
+
+WETH: 0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720
+UNI_ADDRESS: 0x6984b69fcda5Bd1a2757D4F57441F405cfB17a45
+UniswapV3Factory: 0x79429Bd112Bb173030e899293D46A6be2a2202fA,
+UniswapInterfaceMulticall: 0xFE4c4eB5f9b7f671a5057652aa07eFB4c35374b7,
+NFTDescriptor: 0x6163Af7F2E3a31cE324dB31C292d9688BE838957,
+NonfungiblePositionManager: 0xA68c49c11645AdCdac5FE4811A6dB4b20f7168F4,
+SwapRouter02: 0x8129be954dc1742e3A3C0E9066559Cc49c3DC310
+UniswapV2Router02: 0xd7bbFc48c10dc43619E2C187451dDB55e1ECD66b,
+SwapRouter: 0x9b9C3BEc35cA538cd3ceaD28f2299a98b346B248,
+Quoter: 0x9199CE55568C9C5d75159478DD1059aE4a8BA981,
+ENS_REGISTRAR_ADDRESSES: 0x0037A7e41967eDb225F13E6BD9224d51c6c30Fb0
+
+These are really available contract of the Uniswap V3 on Astar network
+These are needed for the add liqudity and swap on the Uniswap V3
+
