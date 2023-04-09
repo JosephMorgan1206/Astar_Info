@@ -1,1 +1,1 @@
-My telegram address: Blockchain_minion
+These are app link and contract address
